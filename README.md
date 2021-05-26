@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesperancinha)](https://github.com/jesperancinha/github-readme-stats)
 
-[![jesperancinha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jesperancinha)](https://github.com/jesperancinha/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jesperancinha)](https://github.com/jesperancinha/github-readme-stats)
 
 
 <!--
