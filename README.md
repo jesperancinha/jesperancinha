@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=jesperancinha)
+<div align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=jesperancinha)"/>
+</div>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesperancinha" />
