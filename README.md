@@ -9,8 +9,8 @@
 ---
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesperancinha" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperancinha" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesperancinha" />
 </div>
 
 <!--
