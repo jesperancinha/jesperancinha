@@ -2,14 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=jesperancinha)
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesperancinha" />
-</a>
+</div>
    
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperancinha" />
-</a>
+</div>
 
 <!--
 **jesperancinha/jesperancinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
