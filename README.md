@@ -16,7 +16,7 @@
 </div>
 
 ---
-🌿 🇺🇦 🕊 💙 💛
+🌿 🇺🇦 🕊
 ---
 
 [![VMware Spring Professional 2021](https://raw.githubusercontent.com/jesperancinha/project-signer/master/project-signer-templates/badges/vmware-spring-professional-2021-60.png "VMware Spring Professional 2021")](https://www.credly.com/badges/762fa7a4-9cf4-417d-bd29-7e072d74cdb7)
