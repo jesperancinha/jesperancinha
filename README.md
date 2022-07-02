@@ -10,7 +10,7 @@
 
 ---
 
-[![alt text](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jesperancinha&show-avatar=false&show-header=false)](https://profile.codersrank.io/user/jesperancinha)
+[![alt text](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jesperancinha)](https://profile.codersrank.io/user/jesperancinha)
 
 ---
 
