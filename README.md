@@ -42,10 +42,6 @@
 [![alt text](https://raw.githubusercontent.com/jesperancinha/project-signer/master/project-signer-templates/icons-20/hacker-earth-20.png "Hacker Earth")](https://www.hackerearth.com/@jofisaes)
 [![alt text](https://raw.githubusercontent.com/jesperancinha/project-signer/master/project-signer-templates/icons-20/khan-academy-20.png "Khan Academy")](https://www.khanacademy.org/profile/jofisaes)
 
----
-
-[![alt text](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jesperancinha)](https://profile.codersrank.io/user/jesperancinha)
-
 <!--
 **jesperancinha/jesperancinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
