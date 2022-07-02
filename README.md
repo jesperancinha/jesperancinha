@@ -44,8 +44,7 @@
 
 ---
 
-[![alt text](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jesperancinha&show-avatar=false)]
-(https://profile.codersrank.io/user/jesperancinha)
+[![alt text](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jesperancinha&show-avatar=false)](https://profile.codersrank.io/user/jesperancinha)
 
 <!--
 **jesperancinha/jesperancinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
