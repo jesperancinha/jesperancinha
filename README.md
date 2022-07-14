@@ -1,7 +1,3 @@
-### Hi there 👋
-
----
-
 <div align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=jesperancinha"/>
 </div>
