@@ -41,7 +41,7 @@
 [![alt text](https://raw.githubusercontent.com/jesperancinha/project-signer/master/project-signer-templates/icons-20/khan-academy-20.png "Khan Academy")](https://www.khanacademy.org/profile/jofisaes)
 
 ---
-🕊🇺🇦
+
 <!--
 **jesperancinha/jesperancinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
