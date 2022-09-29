@@ -5,8 +5,8 @@
 ---
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperancinha" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesperancinha&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperancinha&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesperancinha&layout=compact&theme=dark" />
 </div>
 
 ---
