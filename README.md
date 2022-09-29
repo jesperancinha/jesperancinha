@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperancinha&show_icons=true&theme=dracula&text_color=limegreen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperancinha&show_icons=true&theme=dracula&text_color=green" />
  
 </div>
 
