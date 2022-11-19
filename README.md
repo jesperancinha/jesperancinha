@@ -41,6 +41,13 @@
 
 ---
 
+NOTE: Although I am open to accept merge requests, I do have a few rules about that:
+1. The profile of who opened the PR must be open.
+2. I need to be able to identify the person who is making the PR either via photo, because I know that person or because that person is known in a larger scale.
+3. The PR needs to be something meaningful to the project. Updates to Readme files are rarely that.
+
+---
+
 <!--
 **jesperancinha/jesperancinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -101,8 +108,3 @@ Here are some ideas to get you started:
 [![Generic badge](https://img.shields.io/static/v1.svg?label=GitHub&message=JEsperancinhaOrg&color=yellow "jesperancinha.org dependencies")](https://github.com/JEsperancinhaOrg)
 [![Generic badge](https://img.shields.io/static/v1.svg?label=All%20Badges&message=Badges&color=red "All badges")](https://joaofilipesabinoesperancinha.nl/badges)
 [![Generic badge](https://img.shields.io/static/v1.svg?label=Status&message=Project%20Status&color=red "Project statuses")](https://github.com/jesperancinha/project-signer/blob/master/project-signer-quality/Build.md)
-
-NOTE: Although I am open to accept merge requests, I do have a few rules about that:
-1. The profile of who opened the PR must be open.
-2. I need to be able to identify the person who is making the PR either via photo, because I know that person or because that person is known in a larger scale.
-3. The PR needs to be something meaningful to the project. Updates to Readme files are rarely that.
