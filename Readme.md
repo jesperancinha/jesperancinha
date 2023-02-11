@@ -37,6 +37,8 @@ NOTE: Although I am open to accept merge requests, I do have a few rules about t
 | [Sessionize](https://sessionize.com/joao-esperancinha/)
 | [Spotify](https://open.spotify.com/user/jlnozkcomrxgsaip7yvffpqqm?si=b54b89eae8894960)
 | [Medium](https://medium.com/@jofisaes)
+| [YouTube](https://www.youtube.com/@joaoesperancinha/featured)
+| [Instagram](https://www.instagram.com/joaofisaes/)
 | [Buy me a coffee](https://www.buymeacoffee.com/jesperancinha)
 | [Credly Badges](https://www.credly.com/users/joao-esperancinha)
 | [Google Apps](https://play.google.com/store/apps/developer?id=Joao+Filipe+Sabino+Esperancinha)
