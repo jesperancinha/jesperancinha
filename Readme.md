@@ -23,7 +23,7 @@
 
 <div align="center" style="float:right">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jesperancinha"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jesperancinha&theme=merko"/>
 
 </div>
 
