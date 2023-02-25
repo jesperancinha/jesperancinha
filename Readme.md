@@ -35,15 +35,6 @@
 
 </div>
 
-
----
-
-<div align="center" style="float:right">
-  
-  <img src="https://activity-graph.herokuapp.com/graph?username=jesperancinha&theme=xcode"/>
-
-</div>
-
 ---
 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jofisaes)
