@@ -29,6 +29,14 @@
 
 ---
 
+<div align="center" style="float:right">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=jesperancinha&theme=merko"/>
+
+</div>
+
+---
+
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jofisaes)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaoesperancinha/)
 [![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jlnozkcomrxgsaip7yvffpqqm)
