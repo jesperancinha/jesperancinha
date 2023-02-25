@@ -21,6 +21,13 @@
 
 ---
 
+<div align="center" style="float:right">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jesperancinha"/>
+
+</div>
+
+
 NOTE: Although I am open to accept merge requests, I do have a few rules about that:
 1.  The profile of who opened the PR must be open.
 2.  I need to be able to identify the person who is making the PR either via photo, or because I know that person or because that person is known in a larger scale.
