@@ -27,6 +27,7 @@
 
 </div>
 
+---
 
 NOTE: Although I am open to accept merge requests, I do have a few rules about that:
 1.  The profile of who opened the PR must be open.
