@@ -37,13 +37,6 @@
 
 ---
 
-[![](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&color=red)](https://www.youtube.com/@joaoesperancinha)
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jofisaes)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaoesperancinha/)
-[![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jlnozkcomrxgsaip7yvffpqqm)
-
----
-
 NOTE: Although I am open to accept merge requests, I do have a few rules about that:
 1.  The profile of who opened the PR must be open.
 2.  I need to be able to identify the person who is making the PR either via photo, or because I know that person or because that person is known in a larger scale.
