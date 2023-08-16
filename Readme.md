@@ -37,6 +37,23 @@
 
 ---
 
+## My Android apps
+
+<div align="center">
+
+[![](https://img.shields.io/badge/Matrix%20Anywhere-%230077B5.svg?style=for-the-badge&logo=android&color=0a5d00)](https://github.com/jesperancinha/matrix-anywhere-android)
+[![](https://img.shields.io/badge/Base%20Converter-%230077B5.svg?style=for-the-badge&logo=android&color=0a5d00)](https://github.com/jesperancinha/base-converter-android)
+[![](https://img.shields.io/badge/Timezone%20Utility-%230077B5.svg?style=for-the-badge&logo=android&color=0a5d00)](https://github.com/jesperancinha/timezone-app-utility-android)
+[![](https://img.shields.io/badge/Ping%20App-%230077B5.svg?style=for-the-badge&logo=android&color=0a5d00)](https://github.com/jesperancinha/ping-app-android)
+[![](https://img.shields.io/badge/Catcher%20App-%230077B5.svg?style=for-the-badge&logo=android&color=0a5d00)](https://github.com/jesperancinha/catcher-app-android)
+
+</div>
+
+
+Check all the apps here: [![](https://img.shields.io/badge/Google%20Play-%230077B5.svg?style=for-the-badge&logo=googleplay&color=purple)](https://play.google.com/store/apps/developer?id=Joao+Filipe+Sabino+Esperancinha)
+
+---
+
 NOTE: Although I am open to accept merge requests, I do have a few rules about that:
 1.  The profile of who opened the PR must be open.
 2.  I need to be able to identify the person who is making the PR either via photo, or because I know that person or because that person is known in a larger scale.
