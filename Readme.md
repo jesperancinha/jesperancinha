@@ -1,6 +1,19 @@
+
 <div align="center">
+
+[![alt text](https://raw.githubusercontent.com/jesperancinha/project-signer/master/project-signer-templates/icons-100/JEOrgLogo-27.png "João Esperancinha Homepage")](http://joaofilipesabinoesperancinha.nl)
+[![](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&color=FF0000)](https://www.youtube.com/channel/UCzS_JK7QsZ7ZH-zTc5kBX_g)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jofisaes)
+
   <img align="center" src="https://komarev.com/ghpvc/?username=jesperancinha"/>
 </div>
+
+---
+
+Hello there developers! This is my GitHub profile, welcome!
+I am an experience Software developer/engineer that loves to share knowledge with everyone about software. 👋. 
+
+Feel free to have a look, ask questions and open issues!
 
 ---
 
