@@ -11,11 +11,8 @@
 
 <a href="https://stackexchange.com/users/4560293/joao-esperancinha"><img src="https://stackexchange.com/users/flair/4560293.png" width="208" height="58" alt="profile for Joao Esperancinha on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Joao Esperancinha on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-<div>
-    <script src="https://www.hackthebox.eu/badge/368550"></script>
-</div>
+<img align="center" src="https://komarev.com/ghpvc/?username=jesperancinha"/>
 
-  <img align="center" src="https://komarev.com/ghpvc/?username=jesperancinha"/>
 </div>
 
 ---
