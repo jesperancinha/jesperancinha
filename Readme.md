@@ -2,13 +2,20 @@
 <div align="center">
 
 [![alt text](https://raw.githubusercontent.com/jesperancinha/project-signer/master/project-signer-templates/icons-100/JEOrgLogo-27.png "João Esperancinha Homepage")](http://joaofilipesabinoesperancinha.nl)
+
 [![](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&color=FF0000)](https://www.youtube.com/channel/UCzS_JK7QsZ7ZH-zTc5kBX_g)
-[![](https://img.shields.io/badge/Stack%20Overflow-%230077B5.svg?style=for-the-badge&logo=stackoverflow&color=5A5A5A)](https://stackoverflow.com/users/3702839/joao-esperancinha)
-[![](https://img.shields.io/badge/Reddit-%230077B5.svg?style=for-the-badge&logo=reddit&color=black)](https://www.reddit.com/user/jesperancinha/)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jofisaes)
 [![](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%230077B5.svg?style=for-the-badge&logo=buymeacoffee&color=yellow)](https://www.buymeacoffee.com/jesperancinha)
 [![](https://img.shields.io/badge/Patreon-%230077B5.svg?style=for-the-badge&logo=patreon&color=black)](https://www.patreon.com/jofisaes)
+
+
+[![](https://img.shields.io/badge/Stack%20Overflow-%230077B5.svg?style=for-the-badge&logo=stackoverflow&color=5A5A5A)](https://stackoverflow.com/users/3702839/joao-esperancinha)
+[![](https://img.shields.io/badge/Reddit-%230077B5.svg?style=for-the-badge&logo=reddit&color=black)](https://www.reddit.com/user/jesperancinha/)
+
 [![](https://img.shields.io/badge/Scribd-%230077B5.svg?style=for-the-badge&logo=scribd&color=1E7B85)](https://www.scribd.com/user/640782656/Joao-Esperancinha)
+[![](https://img.shields.io/badge/Slide--Share-%230077B5.svg?style=for-the-badge&logo=slideshare&color=white)](https://www.slideshare.net/JooEsperancinha)
+
+
 
 
 <a href="https://stackexchange.com/users/4560293/joao-esperancinha"><img src="https://stackexchange.com/users/flair/4560293.png" width="208" height="58" alt="profile for Joao Esperancinha on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Joao Esperancinha on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
