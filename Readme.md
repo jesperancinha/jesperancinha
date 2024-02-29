@@ -8,6 +8,8 @@
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jofisaes)
 [![](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%230077B5.svg?style=for-the-badge&logo=buymeacoffee&color=yellow)](https://www.buymeacoffee.com/jesperancinha)
 [![](https://img.shields.io/badge/Patreon-%230077B5.svg?style=for-the-badge&logo=patreon&color=black)](https://www.patreon.com/jofisaes)
+[![](https://img.shields.io/badge/Scribd-%230077B5.svg?style=for-the-badge&logo=scribd&color=1E7B85)]([https://www.patreon.com/jofisaes](https://www.scribd.com/user/640782656/Joao-Esperancinha)
+
 
 <a href="https://stackexchange.com/users/4560293/joao-esperancinha"><img src="https://stackexchange.com/users/flair/4560293.png" width="208" height="58" alt="profile for Joao Esperancinha on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Joao Esperancinha on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
