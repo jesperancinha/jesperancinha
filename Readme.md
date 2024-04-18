@@ -84,10 +84,16 @@ Feel free to have a look, ask questions and open issues!
 
 ---
 
+## About Pull/Merge Requests
+
 NOTE: Although I am open to accept merge requests, I do have a few rules about that:
 1.  The profile of who opened the PR must be open.
 2.  I need to be able to identify the person who is making the PR either via photo, or because I know that person or because that person is known in a larger scale.
 3.  The PR needs to be something meaningful to the project. Updates to Readme files are rarely that.
+
+## Javascript/NodeJS projects
+
+For productions projects we should keep the lock files when using NPM dependencies. However, managing `yarn.lock` or `package-lock.json` files is a lot of work for demo projects. This is explicitly made for all non-production projects that I have on GitHub. For the eventual production project, I will keep the lock files.
 
 ---
 
