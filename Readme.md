@@ -11,6 +11,7 @@
 
 
 [![](https://img.shields.io/badge/Stack%20Overflow-%230077B5.svg?style=for-the-badge&logo=stackoverflow&color=5A5A5A)](https://stackoverflow.com/users/3702839/joao-esperancinha)
+[![](https://img.shields.io/badge/Daily%20Dev-%230077B5.svg?style=for-the-badge&logo=daily.dev&color=black)](https://app.daily.dev/jesperancinha)
 [![](https://img.shields.io/badge/Reddit-%230077B5.svg?style=for-the-badge&logo=reddit&color=black)](https://www.reddit.com/user/jesperancinha/)
 
 [![](https://img.shields.io/badge/Scribd-%230077B5.svg?style=for-the-badge&logo=scribd&color=1E7B85)](https://www.scribd.com/user/640782656/Joao-Esperancinha)
