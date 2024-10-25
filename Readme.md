@@ -34,9 +34,9 @@
 ---
 
 Hello there developers! This is my GitHub profile, welcome!
-I am an experience Software developer/engineer that loves to share knowledge with everyone about software. 👋. 
+I am an experienced Software developer/engineer who loves to share knowledge with everyone about software. 👋. 
 
-Feel free to have a look, ask questions and open issues!
+Feel free to have a look, ask questions, and open issues!
 
 ---
 
