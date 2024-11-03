@@ -61,7 +61,6 @@ NOTE: Although I am open to accept merge requests, I do have a few rules about t
 | [InfoQ](https://www.infoq.com/profile/Joao-Esperancinha.2/)
 | [LinkedIn](https://www.linkedin.com/in/joaoesperancinha/)
 | [Xing](https://www.xing.com/profile/Joao_Esperancinha/cv)
-| [Tumblr](https://jofisaes.tumblr.com/)
 | [Pinterest](https://nl.pinterest.com/jesperancinha/)
 | [Quora](https://nl.quora.com/profile/Jo%C3%A3o-Esperancinha)
 | [VMware Spring Professional 2021](https://www.credly.com/badges/762fa7a4-9cf4-417d-bd29-7e072d74cdb7)
