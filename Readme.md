@@ -100,9 +100,17 @@ NOTE: Although I am open to accept merge requests, I do have a few rules about t
 
 ## Javascript/NodeJS projects
 
-For production projects we should keep the lock files when using NPM dependencies. However, managing `yarn.lock` or `package-lock.json` files is a lot of work for demo projects. For all of the demo projects, I have removed all lock files. This is explicitly made for all non-production projects that I have on GitHub. For the eventual production project, I will keep the lock files.
+For production projects we should keep the lock files when using NPM dependencies. However, managing `yarn.lock` or `package-lock.json` files is a lot of work for demo projects. For all the demo projects, I have removed all lock files. This is explicitly made for all non-production projects that I have on GitHub. For the eventual production project, I will keep the lock files.
 
 ---
+
+
+## Conferences Worldwide
+
+If you want to stay up to date with world conferences, many developers and groups develop repositories that contain a list of many conferences. These are not managed or administrated by me. They provide insights about most of the important conferences:
+
+- [Java Conferences](https://github.com/javaconferences/javaconferences.github.io) - [https://github.com/javaconferences/javaconferences.github.io](https://github.com/javaconferences/javaconferences.github.io)
+- [Developers Conferences & CFP Agenda/List/Map](https://github.com/scraly/developers-conferences-agenda) - [https://github.com/scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda)
 
 ## About me
 
