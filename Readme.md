@@ -109,6 +109,7 @@ For production projects we should keep the lock files when using NPM dependencie
 
 If you want to stay up to date with world conferences, many developers and groups develop repositories that contain a list of many conferences. These are not managed or administrated by me. They provide insights about most of the important conferences:
 
+- [Java Conferences Org](https://javaconferences.org/)
 - [Java Conferences](https://github.com/javaconferences/javaconferences.github.io) - [https://github.com/javaconferences/javaconferences.github.io](https://github.com/javaconferences/javaconferences.github.io)
 - [Developers Conferences & CFP Agenda/List/Map](https://github.com/scraly/developers-conferences-agenda) - [https://github.com/scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda)
 
