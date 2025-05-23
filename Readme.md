@@ -111,6 +111,11 @@ If you want to stay up to date with world conferences, many developers and group
 - [Java Conferences](https://github.com/javaconferences/javaconferences.github.io) - [https://github.com/javaconferences/javaconferences.github.io](https://github.com/javaconferences/javaconferences.github.io)
 - [Developers Conferences & CFP Agenda/List/Map](https://github.com/scraly/developers-conferences-agenda) - [https://github.com/scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda)
 
+My talks so far:
+
+* Devoxx UK 2025: [Could Virtual Threads cast away the usage of Kotlin Coroutines? What experience can tell us...
+](https://www.devoxx.co.uk/talk/?id=22669) | [Video](https://www.youtube.com/watch?v=Nik9AaVd2_M)
+
 ## About me
 
 <div align="center">
