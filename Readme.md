@@ -113,6 +113,7 @@ If you want to stay up to date with world conferences, many developers and group
 
 My talks so far:
 
+* JNation PT 2025: [Kotlin Mysteries found from years working with Kotlin](https://www.scribd.com/presentation/868098212/Decoding-Kotlin-Your-Guide-to-Solving-the-Mysterious-in-Kotlin-JNation2025) | [Video](https://www.youtube.com/watch?v=V-byiwmUWd4)
 * Devoxx UK 2025: [Could Virtual Threads cast away the usage of Kotlin Coroutines? What experience can tell us...
 ](https://www.devoxx.co.uk/talk/?id=22669) | [Video](https://www.youtube.com/watch?v=Nik9AaVd2_M)
 
@@ -169,5 +170,4 @@ My talks so far:
 [![Generic badge](https://img.shields.io/static/v1.svg?label=GitHub&message=JEsperancinhaOrg&color=064e40&style=for-the-badge "jesperancinha.org dependencies")](https://github.com/JEsperancinhaOrg)
 [![Generic badge](https://img.shields.io/static/v1.svg?label=All%20Badges&message=Badges&color=064e40&style=for-the-badge "All badges")](https://joaofilipesabinoesperancinha.nl/badges)
 [![Generic badge](https://img.shields.io/static/v1.svg?label=Status&message=Project%20Status&color=orange&style=for-the-badge "Project statuses")](https://github.com/jesperancinha/project-signer/blob/master/project-signer-quality/Build.md)
-[![](LGBTI_Flag.png)]()
 </div>
