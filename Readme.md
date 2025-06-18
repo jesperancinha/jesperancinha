@@ -115,7 +115,7 @@ My talks so far:
 
 * [Devoxx PL](https://devoxx.pl/) 2025: [Kotlin Mysteries found from years working with Kotlin](https://www.scribd.com/document/875523749/Decoding-Kotlin-Your-Guide-to-Solving-the-Mysterious-in-Kotlin-DevoxxPL20205) | Checkout [DevoxxPL YouTube channel](https://www.youtube.com/@DevoxxPoland) to stay updated
 * [JNation PT](https://jnation.pt/) 2025: [Kotlin Mysteries found from years working with Kotlin](https://www.scribd.com/presentation/868098212/Decoding-Kotlin-Your-Guide-to-Solving-the-Mysterious-in-Kotlin-JNation2025) | [Video](https://www.youtube.com/watch?v=V-byiwmUWd4)
-* [evoxx UK](https://www.devoxx.co.uk/) 2025: [Could Virtual Threads cast away the usage of Kotlin Coroutines? What experience can tell us...
+* [Devoxx UK](https://www.devoxx.co.uk/) 2025: [Could Virtual Threads cast away the usage of Kotlin Coroutines? What experience can tell us...
 ](https://www.devoxx.co.uk/talk/?id=22669) | [Video](https://www.youtube.com/watch?v=Nik9AaVd2_M)
 
 ## About me
