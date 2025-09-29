@@ -65,7 +65,7 @@ Feel free to have a look, ask questions, and open issues!
 
 <div align="center" style="float:right">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=jesperancinha&theme=onestar"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jesperancinha&theme=merko"/>
 
 </div>
 
