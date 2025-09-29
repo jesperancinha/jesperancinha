@@ -71,7 +71,11 @@ Feel free to have a look, ask questions, and open issues!
 
 ---
 
+<div align="center" style="float:right">
+
 ![João Esperancinha's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=jesperancinha)
+
+</div>
 
 ---
 
