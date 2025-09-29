@@ -71,6 +71,10 @@ Feel free to have a look, ask questions, and open issues!
 
 ---
 
+![João Esperancinha's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=jesperancinha)
+
+---
+
 ## My Android apps
 
 <div align="center">
