@@ -89,6 +89,8 @@ Feel free to have a look, ask questions, and open issues!
 [![](https://img.shields.io/badge/Catcher%20App-%230077B5.svg?style=for-the-badge&logo=android&color=0a5d00)](https://github.com/jesperancinha/catcher-app-android)
 [![](https://img.shields.io/badge/Android%20Test%20Drives-%230077B5.svg?style=for-the-badge&logo=android&color=0a5d00)](https://github.com/jesperancinha/jeorg-android-test-drives)
 
+</div>
+
 ---
 
 ## About Pull/Merge Requests
