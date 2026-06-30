@@ -37,47 +37,6 @@ Feel free to have a look, ask questions, and open issues!
 
 ---
 
-<div align="center" style="float:right">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesperancinha&show_icons=true&theme=merko" />
-
-</div>
-
----
-
-<div align="center" style="float:right">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesperancinha&layout=compact&show_icons=true&theme=merko" />
-
-</div>
-
-
----
-
-<div align="center" style="float:right">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jesperancinha&theme=merko"/>
-
-</div>
-
----
-
-<div align="center" style="float:right">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=jesperancinha&theme=merko"/>
-
-</div>
-
----
-
-<div align="center" style="float:right">
-
-![João Esperancinha's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=jesperancinha)
-
-</div>
-
----
-
 ## My Android apps and experimental projects
 
 <div align="center">
