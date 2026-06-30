@@ -2,21 +2,15 @@
 <div align="center">
 
 [![alt text](https://raw.githubusercontent.com/jesperancinha/project-signer/master/project-signer-templates/icons-100/JEOrgLogo-27.png "João Esperancinha Homepage")](http://joaofilipesabinoesperancinha.nl)
-
 [![](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&color=FF0000)](https://www.youtube.com/channel/UCzS_JK7QsZ7ZH-zTc5kBX_g)
 [![](https://img.shields.io/badge/Daily%20Motion-%230077B5.svg?style=for-the-badge&logo=dailymotion&color=black)](https://www.dailymotion.com/jofisaes)
 [![](https://img.shields.io/badge/Kick-%230077B5.svg?style=for-the-badge&logo=kick&color=black)](https://kick.com/jesperancinha)
-
 [![](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%230077B5.svg?style=for-the-badge&logo=buymeacoffee&color=yellow)](https://www.buymeacoffee.com/jesperancinha)
 [![](https://img.shields.io/badge/Patreon-%230077B5.svg?style=for-the-badge&logo=patreon&color=black)](https://www.patreon.com/jofisaes)
-
-
 [![](https://img.shields.io/badge/Stack%20Overflow-%230077B5.svg?style=for-the-badge&logo=stackoverflow&color=5A5A5A)](https://stackoverflow.com/users/3702839/joao-esperancinha)
 [![](https://img.shields.io/badge/Daily%20Dev-%230077B5.svg?style=for-the-badge&logo=daily.dev&color=black)](https://app.daily.dev/jesperancinha)
-
 [![](https://img.shields.io/badge/Mastodon-%230077B5.svg?style=for-the-badge&logo=mastodon&color=afd7f7)](https://masto.ai/@jesperancinha)
 [![](https://img.shields.io/badge/Bluesky-%230077B5.svg?style=for-the-badge&logo=bluesky&color=black)](https://bsky.app/profile/jesperancinha.bsky.social)
-
 [![](https://img.shields.io/badge/Scribd-%230077B5.svg?style=for-the-badge&logo=scribd&color=1E7B85)](https://www.scribd.com/user/640782656/Joao-Esperancinha)
 [![](https://img.shields.io/badge/Slide--Share-%230077B5.svg?style=for-the-badge&logo=slideshare&color=white)](https://www.slideshare.net/JooEsperancinha)
 [![](https://img.shields.io/badge/Speakerdeck-%230077B5.svg?style=for-the-badge&logo=speakerdeck&color=black)](https://speakerdeck.com/jesperancinha)
