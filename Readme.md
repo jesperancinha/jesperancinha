@@ -96,7 +96,7 @@ My talks so far:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&color=black)](https://www.linkedin.com/in/joaoesperancinha/)
 [![](https://img.shields.io/badge/Xing-%230077B5.svg?style=for-the-badge&logo=xing&color=black)](https://www.xing.com/profile/Joao_Esperancinha/cv)
 [![](https://img.shields.io/badge/YCombinator-%230077B5.svg?style=for-the-badge&logo=ycombinator&color=black)](https://news.ycombinator.com/user?id=jesperancinha)
-[![GitHub followers](https://img.shields.io/github/followers/jesperancinha.svg?label=Jesperancinha&style=for-the-badge&logo=github&color=black "GitHub")](https://github.com/jesperancinha)
+[![GitHub followers](https://img.shields.io/github/followers/jesperancinha.svg?label=Jesperancinha&style=for-the-badge&logo=github&color=black)](https://github.com/jesperancinha)
 [![](https://img.shields.io/badge/bitbucket-%230077B5.svg?style=for-the-badge&logo=bitbucket&color=black)](https://bitbucket.org/jesperancinha)
 [![](https://img.shields.io/badge/gitlab-%230077B5.svg?style=for-the-badge&logo=gitlab&color=black)](https://gitlab.com/jesperancinha)
 [![](https://img.shields.io/badge/Sonatype%20Search%20Repos-%230077B5.svg?style=for-the-badge&color=black)](https://central.sonatype.com/search?smo=true&q=org.jesperancinha)
