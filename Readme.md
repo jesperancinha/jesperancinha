@@ -2,7 +2,7 @@
 <div align="center">
 
 [![alt text](https://raw.githubusercontent.com/jesperancinha/project-signer/master/project-signer-templates/icons-100/JEOrgLogo-27.png "João Esperancinha Homepage")](http://joaofilipesabinoesperancinha.nl)
-[![](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&color=FF0000)](https://www.youtube.com/channel/UCzS_JK7QsZ7ZH-zTc5kBX_g)
+[![](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCzS_JK7QsZ7ZH-zTc5kBX_g)
 [![](https://img.shields.io/badge/Daily%20Motion-%230077B5.svg?style=for-the-badge&logo=dailymotion&color=black)](https://www.dailymotion.com/jofisaes)
 [![](https://img.shields.io/badge/Kick-%230077B5.svg?style=for-the-badge&logo=kick&color=black)](https://kick.com/jesperancinha)
 [![](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%230077B5.svg?style=for-the-badge&logo=buymeacoffee&color=yellow)](https://www.buymeacoffee.com/jesperancinha)
