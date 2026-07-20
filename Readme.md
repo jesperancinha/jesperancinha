@@ -37,12 +37,12 @@ Feel free to have a look, ask questions, and open issues!
 
 <div align="center">
 
-[![](https://img.shields.io/badge/Matrix%20Anywhere%202-%230077B5.svg?style=for-the-badge&logo=android&color=0a5d00)](https://github.com/jesperancinha/matrix-anywhere-android)
-[![](https://img.shields.io/badge/Base%20Converter-%230077B5.svg?style=for-the-badge&logo=android&color=0a5d00)](https://github.com/jesperancinha/base-converter-android)
-[![](https://img.shields.io/badge/Timezone%20Utility-%230077B5.svg?style=for-the-badge&logo=android&color=0a5d00)](https://github.com/jesperancinha/timezone-app-utility-android)
-[![](https://img.shields.io/badge/Ping%20App-%230077B5.svg?style=for-the-badge&logo=android&color=0a5d00)](https://github.com/jesperancinha/ping-app-android)
-[![](https://img.shields.io/badge/Catcher%20App-%230077B5.svg?style=for-the-badge&logo=android&color=0a5d00)](https://github.com/jesperancinha/catcher-app-android)
-[![](https://img.shields.io/badge/Android%20Test%20Drives-%230077B5.svg?style=for-the-badge&logo=android&color=0a5d00)](https://github.com/jesperancinha/jeorg-android-test-drives)
+[![](https://img.shields.io/badge/Matrix%20Anywhere%202-%230077B5.svg?style=for-the-badge&logo=android&color=black)](https://github.com/jesperancinha/matrix-anywhere-android)
+[![](https://img.shields.io/badge/Base%20Converter-%230077B5.svg?style=for-the-badge&logo=android&color=black)](https://github.com/jesperancinha/base-converter-android)
+[![](https://img.shields.io/badge/Timezone%20Utility-%230077B5.svg?style=for-the-badge&logo=android&color=black)](https://github.com/jesperancinha/timezone-app-utility-android)
+[![](https://img.shields.io/badge/Ping%20App-%230077B5.svg?style=for-the-badge&logo=android&color=black)](https://github.com/jesperancinha/ping-app-android)
+[![](https://img.shields.io/badge/Catcher%20App-%230077B5.svg?style=for-the-badge&logo=android&color=black)](https://github.com/jesperancinha/catcher-app-android)
+[![](https://img.shields.io/badge/Android%20Test%20Drives-%230077B5.svg?style=for-the-badge&logo=android&color=black)](https://github.com/jesperancinha/jeorg-android-test-drives)
 
 </div>
 
